@@ -1,6 +1,6 @@
 ---
 title: 基于人工智能的中职教育
-author: lamngockhuong
+author: tbkmj
 date: 2025-01-09 11:00 +0700
 categories: [Docker]
 tags: [docker]
