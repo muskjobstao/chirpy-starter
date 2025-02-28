@@ -5,7 +5,7 @@ date: 2025-01-09 11:00 +0700
 categories: [Docker]
 tags: [docker]
 image:
-  path: /posts/2023/10/docker.png
+  path: /posts/2025/02/docker.png
   width: 800
   height: 500
 ---
