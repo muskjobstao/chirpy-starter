@@ -1,4 +1,14 @@
-
+---
+title: 基于人工智能的中职教育
+author: lamngockhuong
+date: 2025-01-09 11:00 +0700
+categories: [Docker]
+tags: [docker]
+image:
+  path: /posts/2023/10/docker.png
+  width: 800
+  height: 500
+---
 ## **第1-3天：人工智能基础**
 
 ### **第1天：人工智能概述**
